@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://imgur.com/KfJZXj8)
+![image](https://imgur.com/a/dvdcJ7W)
 
 ## Ferramentas utilizadas:
 
