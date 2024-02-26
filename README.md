@@ -14,6 +14,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Lucas Feliciano
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: www.linkedin.com/in/lucas-feliciano-paixão-b3a9192b4
